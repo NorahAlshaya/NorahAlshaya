@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NorahAlshaa
+- 👋 Hi, I’m @NorahAlshaya
 - 👀 I’m interested in Artificial intelligence, Machine Learning, Data Science, and Web Development.
 - 📫 You can reach me via my linkedin: https://www.linkedin.com/in/norahalshaya
 
